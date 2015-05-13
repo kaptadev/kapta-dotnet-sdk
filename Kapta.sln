@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kapta", "Kapta\Kapta.csproj", "{BB69120C-429C-4032-82A2-6587760929C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kapta.Tests", "Kapta.Tests\Kapta.Tests.csproj", "{DFA0B457-6807-4233-9B5D-E86F7B993ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB69120C-429C-4032-82A2-6587760929C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB69120C-429C-4032-82A2-6587760929C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB69120C-429C-4032-82A2-6587760929C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB69120C-429C-4032-82A2-6587760929C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA0B457-6807-4233-9B5D-E86F7B993ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA0B457-6807-4233-9B5D-E86F7B993ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA0B457-6807-4233-9B5D-E86F7B993ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA0B457-6807-4233-9B5D-E86F7B993ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
